@@ -7,3 +7,8 @@
     spice.furnsh('furnsh_generic.tm')
     spice.furnsh('furnsh_psp.tm')
     spice.furnsh('furnsh_so)
+
+其中不论处理哪种飞行器数据，都需要调用generic.tm
+
+**例：获取SO在不同坐标系下的位置**
+

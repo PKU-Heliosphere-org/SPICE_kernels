@@ -2,6 +2,7 @@ KPL/MK
 
 File name: furnsh_so.tm
 Here are the basic SO kernels required for SO data analysis. (To get SO ephemeris)
+Files can be downloaded from https://spiftp.esac.esa.int/data/SPICE/SOLAR-ORBITER/
 
 Usage (in Python):
 > import spiceypy as spice
@@ -10,7 +11,7 @@ Usage (in Python):
 NOTE that the general kernels are not listed here.
 
 CREATED 26/09/23 by WZQ
-UPDATED 26/09/23 by WZQ
+UPDATED 04/12/23 by WZQ
 
 \begindata
 PATH_VALUES = ('/Users/ephe/SPICE_Data/SO')
